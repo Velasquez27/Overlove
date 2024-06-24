@@ -6,14 +6,14 @@
 }
 
 body {
-    color: aqua;
+    color: azure;
     position: relative;
     width: 100%;
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #6F6E6E;
+    background-color: black;
 }
 
 .container {
